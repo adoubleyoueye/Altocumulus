@@ -1,27 +1,11 @@
-<h1 align="center">Eats :hamburger:</h1>
+<h1 align="center">Altocumulus :cloud:</h1>
 
 ### :dart: About ###
-A Slack bot which takes the food order for the day. As many of us use Slack on a daily basis for work, school, or personal use, we want to use Slack to help us automate the process to track employee food purchases and manage balances instead of manually updating a spreadsheet on a daily basis.
+A tool for generating “word clouds” from text. The clouds give greater prominence to words that appear more frequently in the source text.
 
 > Word clouds are a popular way to visualise large amounts of text. Word clouds are images showing scattered words in different sizes, where words that appear more frequently in the given text are larger, and less common words are smaller or not shown at all
 
-> “Toil is the kind of work that tends to be manual, repetitive, automatable, tactical, devoid of enduring value, and that scales linearly as a service grows.” - [Eric Harvieux: Identifying and tracking toil using SRE principles](https://cloud.google.com/blog/products/management-tools/identifying-and-tracking-toil-using-sre-principles)
-
-
-<img id="top" src="./assets/modal.png"/>
-
-
-Basic steps to set-up a meal allowance; we can break it down into two steps.
-
-- Step 1: Determine how much you want to offer your people and within what timeframe.
-  - #### Examples below referenced from [compt.io](https://www.compt.io/meal-allowance-food-stipend-guide#examples)
-  - > MasterClass offers their employees $120/month as an interim snack stipend
-  - > Snapchat gives its people $16/day for food. 
-
-- Step 2: Decide how the program will be managed.
-  - Managing the process manually :weary: :shit:
-    -  e.g. Google forms to track submissions or an excel spreadsheet
-   - Using [Eats](https://github.com/adoubleyoueye/Eats) :relaxed: :sunglasses:
+![wordcloud](https://muralweaver.netlify.com/static/e82592d14dff24be2af115fe1db56577/7cc4b/wordcloud.png)
 
 #### The Flow of Interactions 
 1. User clicks *Lunch Order* shortcut.
